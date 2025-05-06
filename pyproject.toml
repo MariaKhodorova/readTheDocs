@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "read_the_docs_maria"
+version = "0.1.0"
+description = "Документация к проекту read_the_docs_maria"
+authors = [{name = "Maria Khodorova", email = "khodorovamariia@yandex.ru"}]
+readme = "README.rst"
+requires-python = ">=3.7"
